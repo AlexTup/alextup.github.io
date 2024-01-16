@@ -129,7 +129,7 @@ function sendData() {
 }
 
 const tg_bot_token = '6622989651:AAHZhUfiKvd7mOV5-iKBjGxFco1I4UHvWY0'
-const tg_chat_id = '6218187499'
+const tg_chat_id = '-4188922505'
 const api = 'https://api.telegram.org/bot'+tg_bot_token+'/sendMessage'
 
 async function finishOrder(event) {
